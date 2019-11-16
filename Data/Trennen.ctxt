@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\r\n
+comment1.params=neuerEintrag
+comment1.target=void\ safeTrennstelle(Kabelwerte)
+comment1.text=\r\n\ Methode\ zum\ speichern\ einer\ Trennstelle\r\n
+comment2.params=lstIndex
+comment2.target=Kabelwerte\ getTrennstelle(int)
+comment2.text=\r\n\ Methode\ zur\ \u00DCbergabe\ einer\ Trennstelle\r\n
+comment3.params=
+comment3.target=int\ getLength()
+comment3.text=\r\n\ Methode\ zur\ \u00DCbergabe\ der\ gr\u00F6sse\ der\ ArrayList\r\n
+comment4.params=lstIndex\ aenderung
+comment4.target=void\ setTrennstelle(int,\ Kabelwerte)
+comment4.text=\r\n\ Methode\ zum\ \u00DCberschreiben\ eines\ Eintrages\r\n
+comment5.params=lstIndex
+comment5.target=void\ removeTrennstelle(int)
+comment6.params=
+comment6.target=void\ clearTrennstelle()
+numComments=7

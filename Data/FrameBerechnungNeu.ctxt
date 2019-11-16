@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=f1
+comment0.target=FrameBerechnungNeu(java.awt.Frame)
+comment0.text=\r\n\ Konstruktor,\ welcher\ unter\ anderem\ das\ GUI\ festlegt\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ ActionListener\r\n
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment2.text=\r\n\ Paint\ mit\ der\ Ausgabe\ der\ Zahl\r\n
+comment3.params=e
+comment3.target=void\ processEvent(java.awt.AWTEvent)
+comment3.text=\r\n\ ProcessEvent\r\n
+comment4.params=g2d\ st\ point1\ point2
+comment4.target=void\ paint(java.awt.Graphics2D,\ java.lang.String,\ float,\ float)
+comment4.text=\r\n\ Methode\ welche\ das\ zentrieren\ eines\ Strings\ erleichtert\r\n
+numComments=5

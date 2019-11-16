@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=y\ trennstelle\ auftragsnummer\ datum\ name\ kabellaenge\ kommentar
+comment0.target=Druckseite(int,\ double,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String)
+comment0.text=\r\n\ Konstruktor\ der\ Klasse\ \r\n
+comment1.params=g
+comment1.target=void\ zeichne(java.awt.Graphics)
+comment1.text=\r\n\ Diese\ Methode\ zeichnet\ die\ Druckseite\r\n
+numComments=2
